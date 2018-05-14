@@ -1,0 +1,48 @@
+.plus-button {
+  -fx-background-image: url('https://cdn.onlinewebfonts.com/svg/img_84809.png');
+  -fx-background-size: 13px 13px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+}
+
+.minus-button {
+	-fx-background-image: url('https://icon-icons.com/icons2/936/PNG/512/minus-symbol_icon-icons.com_73485.png');
+	-fx-background-size: 13px 13px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+.edit-button {
+	-fx-background-image: url('https://image.flaticon.com/icons/png/512/55/55698.png');
+	-fx-background-size: 13px 13px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+.open-button {
+	-fx-background-image: url('https://cdn2.iconfinder.com/data/icons/eldorado-work/40/folder_2_open-512.png');
+	-fx-background-size: 15px 15px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+.save-button {
+		-fx-background-image: url('http://cdn.onlinewebfonts.com/svg/img_249588.png');
+	-fx-background-size: 15px 15px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+.detailLabel {
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+.detailField {
+	-fx-font-size: 16px;
+}
+
+.detailTitle {
+	-fx-font-size: 24px;
+	-fx-underline: true;
+}

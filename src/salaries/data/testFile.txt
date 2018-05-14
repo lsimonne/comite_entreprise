@@ -1,0 +1,13 @@
+Salarie|Jennie|Gates|F|17/04/1960|Dunkerque|False|08/01/1986|+33 4 52 40 21 36|986 Navy Walk|95169|Leyner
+Enfant|Mayo|M|19/08/2011||||||||
+Enfant|Jolene|F|28/09/2003||||||||
+Enfant|Laurie|F|28/11/2016||||||||
+Enfant|Fernandez|M|26/04/2014||||||||
+Enfant|Audra|F|17/12/2004||||||||
+Enfant|Dixie|F|08/09/2004||||||||
+Enfant|Jacobs|M|20/03/2010||||||||
+Enfant|Ruthie|F|28/08/2005||||||||
+Salarie|Carol|Johns|F|20/04/1958|Roubaix|True|18/01/2018|+33 1 30 10 73 12|469 Poly Place|54473|Conway
+Enfant|Cora|F|09/06/2010||||||||
+Enfant|Hill|M|24/11/2008||||||||
+Salarie|Carol|Johs|F|20/05/1958|Roubaix|True|18/04/1987|+33 1 30 10 73 12|469 Poly Place|54473|Conway
